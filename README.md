@@ -1,16 +1,23 @@
-### Hi there 👋
+## Hi there 👋 nice to meet you! 
 
-<!--
-**fabioscantamburlo/fabioscantamburlo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🦸‍♂️ About me
 
-Here are some ideas to get you started:
+Hello I am Fabio and I am a Data Professional with 3+ years of experience.
+### 🔭 Work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I'm employed as a Machine Learning Engineer at 🧭 [Nielsen](https://www.nielsen.com/) in Lugano, Switzerland. My primary areas of focus include:
+
+- Applying ML and DS techniques to solve complex problems in the *Audience Measurement* industry from prototyping 👨‍🏫 the models to deploy them to production 🚀.
+- Applying Software Engineering (SWE) best practices to develop common tools and libraries 🛠️ adopted by the Nielsen's data science teams 🫂.
+
+In my previous role, I worked as a data scientist at 🔌 [Edison](https://www.edison.it/en), where I focused on upstream activities such as energy production forecasting and anomaly detection applied to power plants.
+
+
+### 🆓 Free time
+
+I recently started contributing to the open-source community. I've made some contributions to [Sklego](https://github.com/koaning/scikit-lego), and I've really enjoyed it!
+
+
+### 📫 How to reach me: 
+
+Feel free to connect with me on :email: [Linkedin](https://it.linkedin.com/in/fabio-scantamburlo-5b427614b)
