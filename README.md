@@ -5,7 +5,7 @@
 Hello I am Fabio and I am a Data Professional with 3+ years of experience.
 ### 🔭 Work
 
-Currently, I'm working as a Machine Learning Engineer at 🧭 [Nielsen](https://www.nielsen.com/) in Lugano, Switzerland. My primary areas of focus include:
+Currently, I'm working as a Machine Learning Engineer at 🧭 [Nielsen](https://www.nielsen.com/) in Lugano office (Switzerland). My primary areas of focus include:
 
 - Applying ML and DS techniques to solve complex problems in the *Audience Measurement* industry from prototyping 👨‍🏫 the models to deploy them to production 🚀.
 - Applying Software Engineering (SWE) best practices to develop common tools and libraries 🛠️ adopted by the Nielsen's data science teams 🫂.
