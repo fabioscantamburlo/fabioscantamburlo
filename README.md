@@ -17,9 +17,14 @@ I enjoy combining machine learning with software engineering, especially when
 it leads to useful developer tools, interactive visualizations, and open-source
 projects.
 
-## Selected open-source work
+## Beyond the day job
 
-### 🌲 [PrettyForest](https://github.com/fabioscantamburlo/prettyforest)
+Open-source projects, conference material, and community contributions I pursue
+for the joy of building and sharing.
+
+### Selected open-source work
+
+#### 🌲 [PrettyForest](https://github.com/fabioscantamburlo/prettyforest)
 
 An interactive 2.5D visualization and prediction-tracing tool for tree-based ML
 ensembles. It supports scikit-learn, LightGBM, and CatBoost models in JupyterLab,
@@ -32,7 +37,7 @@ in the [marimo Gallery](https://marimo.io/gallery/l/prettyforest).
 [Live demo](https://molab.marimo.io/github/fabioscantamburlo/prettyforest/blob/main/examples/marimo_nb.py/server) ·
 [PyPI](https://pypi.org/project/prettyforest/)
 
-### 🧩 [prettyvoronoi](https://github.com/fabioscantamburlo/prettyvoronoi)
+#### 🧩 [prettyvoronoi](https://github.com/fabioscantamburlo/prettyvoronoi)
 
 Interactive weighted Voronoi treemaps for Marimo and JupyterLab. It turns
 dataframe rows into visual stories with hierarchical groups, linked selections,
@@ -43,7 +48,7 @@ zooming, image themes, and rectangular stock-map layouts.
 [Gallery](https://molab.marimo.io/github/fabioscantamburlo/prettyvoronoi/blob/main/examples/marimo_gallery.py/server) ·
 [PyPI](https://pypi.org/project/prettyvoronoi/)
 
-### 🌱 Radish ecosystem
+#### 🌱 Radish ecosystem
 
 [**Radish**](https://github.com/fabioscantamburlo/Radish) is a Redis-inspired
 in-memory database built from scratch in Julia as a learning project. It
@@ -58,7 +63,7 @@ and direct RESP2 access.
 [Documentation](https://fabioscantamburlo.github.io/Radish/) ·
 [Python client](https://github.com/fabioscantamburlo/Radishpy)
 
-## Talks and contributions
+### Talks and contributions
 
 - [PyVarese](https://github.com/fabioscantamburlo/PyVarese) — examples from my
   talk on scaling machine-learning workflows with scikit-learn pipelines.
