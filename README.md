@@ -24,7 +24,7 @@ for the joy of building and sharing.
 
 ### Selected open-source work
 
-#### 🌲 [PrettyForest](https://github.com/fabioscantamburlo/prettyforest)
+#### 🌲 [prettyforest](https://github.com/fabioscantamburlo/prettyforest)
 
 An interactive 2.5D visualization and prediction-tracing tool for tree-based ML
 ensembles. It supports scikit-learn, LightGBM, and CatBoost models in JupyterLab,
